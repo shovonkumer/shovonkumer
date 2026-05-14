@@ -31,5 +31,5 @@ Helping businesses and individuals make smarter financial decisions through stra
 ## Connect With Me
 
 LinkedIn:
-Website:
-Email:
+Website: https://www.linkedin.com/in/shovondeb/
+Email: smartintelligence1980@gmail.com
