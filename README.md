@@ -100,11 +100,11 @@ I believe financial advisory should not be transactional — it should be strate
 
 ---
 
-# 🔗 Work With Me
+# 🔗 Work With
 
-## 💼 MoreThan Financials Pty Ltd
+## 💼 MoreThan Financials Pty Ltd 
 
-📍 Queensland, Australia
+📍 Queensland, Australia (Remote)
 
 ---
 
