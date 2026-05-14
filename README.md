@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shovonkumer/shovonkumer/main/banner.png" width="100%" />
+</p>
+
 # 👋 Hi, I'm Shovon Kumer Deb
 
 # Senior Banking Professional | Credit Risk | Lending Strategy | Mortgage Advisory | AI-Augmented Financial Consulting
