@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Shovon Kumer Deb
 
-<!--
-**shovonkumer/shovonkumer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Banking Professional specializing in:
 
-Here are some ideas to get you started:
+- Credit Risk Management
+- Mortgage Advisory
+- Financial Strategy
+- AI-Augmented Financial Consulting
+- Lending & Credit Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on:
+
+- Australian Mortgage Broking
+- Banking AI Frameworks
+- Credit Risk Optimization
+- Personal Authority Branding
+
+## Professional Mission
+
+Helping businesses and individuals make smarter financial decisions through strategic lending, structured advisory, and modern AI-enabled financial consulting.
+
+## Expertise
+
+- Corporate Credit Analysis
+- Home Loan Structuring
+- Refinance Strategy
+- Investment Lending
+- Financial Risk Assessment
+- Banking Process Optimization
+
+## Connect With Me
+
+LinkedIn:
+Website:
+Email:
