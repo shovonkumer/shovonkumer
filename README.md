@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shovonkumer/shovonkumer/main/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/shovonkumer/shovonkumer/main/banner.png.png" width="100%" />
 </p>
 
 # 👋 Hi, I'm Shovon Kumer Deb
